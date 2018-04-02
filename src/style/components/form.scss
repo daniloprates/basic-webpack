@@ -1,0 +1,18 @@
+input[type="text"] {
+  font-size: 16px;
+  border-radius: 3px;
+  border: none;
+  padding: 7px;
+  outline: 0;
+}
+
+button {
+  font-size: 16px;
+  padding: 7px;
+  border: none;
+  border-radius: 3px;
+  background: #9cdaf0;
+  &:focus {
+    outline: 0;
+  }
+}
